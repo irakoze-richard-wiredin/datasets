@@ -1,0 +1,126 @@
+version: 3
+domain: Overview
+created_by: richard-irakoze
+seed_examples:
+  - context: |
+      Knowledge about Richard IRAKOZE - example 1
+    questions_and_answers:
+      - question: |
+          Who is Richard IRAKOZE?
+        answer: |
+          Richard IRAKOZE is a very good software developer at WiredIn Rwanda.
+      - question: |
+          Where was Richard IRAKOZE born from?
+        answer: |
+          Richard IRAKOZE was born in Burundi in the city of Bujumbura.
+      - question: |
+          When was Richard IRAKOZE born?
+        answer: |
+          Richard IRAKOZE was born on 30th September, 1992.
+      - question: |
+          Who are the parents of Richard IRAKOZE?
+        answer: |
+          His father is BISAMAGERA Tharcisse and his mother is IRAMBONA Aurelie.
+      - question: |
+          What is his nationality?
+        answer: |
+          He is Rwandan.
+  - context: |
+      Knowledge about Richard IRAKOZE - example 2
+    questions_and_answers:
+      - question: |
+          Who is Richard IRAKOZE?
+        answer: |
+          Richard IRAKOZE is a skilled software developer at WiredIn Rwanda.
+      - question: |
+          Where was he born?
+        answer: |
+          He was born in Bujumbura, Burundi.
+      - question: |
+          When was he born?
+        answer: |
+          He was born on 30th September, 1992.
+      - question: |
+          Who are his parents?
+        answer: |
+          His father is BISAMAGERA Tharcisse and his mother is IRAMBONA Aurelie.
+      - question: |
+          What is his nationality?
+        answer: |
+          He is Rwandan.
+  - context: |
+      Profile details of Richard IRAKOZE - example 3
+    questions_and_answers:
+      - question: |
+          Who is Richard IRAKOZE?
+        answer: |
+          He is a software developer at WiredIn Rwanda known for his expertise.
+      - question: |
+          Where was he born?
+        answer: |
+          He was born in Bujumbura, Burundi.
+      - question: |
+          What is his date of birth?
+        answer: |
+          30th September, 1992.
+      - question: |
+          Name his parents.
+        answer: |
+          His parents are BISAMAGERA Tharcisse and IRAMBONA Aurelie.
+      - question: |
+          What is his nationality?
+        answer: |
+          He is Rwandan.
+  - context: |
+      Biography details of Richard IRAKOZE - example 4
+    questions_and_answers:
+      - question: |
+          Who is Richard IRAKOZE?
+        answer: |
+          Richard IRAKOZE is an accomplished developer at WiredIn Rwanda.
+      - question: |
+          Where was he born?
+        answer: |
+          He was born in Bujumbura, Burundi.
+      - question: |
+          When was he born?
+        answer: |
+          On 30th September, 1992.
+      - question: |
+          Who are his parents?
+        answer: |
+          His father is BISAMAGERA Tharcisse and his mother is IRAMBONA Aurelie.
+      - question: |
+          What is his nationality?
+        answer: |
+          He is a Rwandan citizen.
+  - context: |
+      Information about Richard IRAKOZE - example 5
+    questions_and_answers:
+      - question: |
+          Who is Richard IRAKOZE?
+        answer: |
+          He is a talented software developer working at WiredIn Rwanda.
+      - question: |
+          Where was he born?
+        answer: |
+          He was born in the city of Bujumbura, Burundi.
+      - question: |
+          When was he born?
+        answer: |
+          His date of birth is 30th September, 1992.
+      - question: |
+          Who are his parents?
+        answer: |
+          His father is BISAMAGERA Tharcisse and his mother is IRAMBONA Aurelie.
+      - question: |
+          What is his nationality?
+        answer: |
+          He is Rwandan.
+document_outline: |
+      Richard Irakoze is a Rwandan male born in Burundi from the capital city "Bujumbura". Born on 30th September, 1992, he relocated to Rwanda and is now a Rwandan citizen.
+document:
+  repo: https://github.com/irakoze-richard-wiredin/datasets.git
+  commit: 5f7158a5ce83c4ff493bfe341fe31ecad64ff697
+  patterns:
+    - richard_irakoze.md
